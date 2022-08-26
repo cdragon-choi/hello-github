@@ -1,5 +1,9 @@
 #include<stdio.h>
+void sub()
+{
+}
 int main()
 {
     int sum = 0;
+    sub();
 }
